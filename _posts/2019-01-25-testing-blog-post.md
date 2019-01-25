@@ -4,7 +4,7 @@ title:  "Testing out blog post"
 date: 2019-01-25
 ---
 
-# Welcome
+## Testing out my blog post
 
 **Hello world**, this is my first Jekyll blog post.
 
