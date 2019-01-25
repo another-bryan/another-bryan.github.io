@@ -16,7 +16,7 @@ This is a paragraph, it's surrounded by whitespace. Next up are some headers, th
 
 #### Header 4
 
-A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big ass literal link <http://github.com/barryclark/jekyll-now/>
+A link to [Jekyll Now](http://github.com/barryclark/jekyll-now/). A big 'ol literal link <http://github.com/barryclark/jekyll-now/>
 
 An image, located within /images
 
